@@ -9,5 +9,10 @@ namespace TestProject1
 
             Console.WriteLine("baranidharan");
         }
+        public void TestMethod2()
+        {
+
+            Console.WriteLine("chsnges made during sector set");
+        }
     }
 }
